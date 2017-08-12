@@ -4,6 +4,7 @@ Build a web api service using Nodejs and Express, this one is for the backend.
 See the [Frontend](http://github.com)here, using Angular
 ### About
 Create a bookstore web api services by creating a button that will point to Barnes & Noble page that has the book.
+Show the CRUD methods of RESTful API by using MongoDB
 
 ### Preparation
 1. Install Node
@@ -13,3 +14,4 @@ Create a bookstore web api services by creating a button that will point to Barn
   - Mongoose: to interactive with database ```npm install express --save```
   - Package.json file ```npm init```
   - In Package.json, add dependencies, the modules to use. then ```npm install```
+3. RESTEasy - add RESTful API
